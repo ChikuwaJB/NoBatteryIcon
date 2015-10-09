@@ -1,0 +1,2 @@
+# NoBatteryIcon
+Remove battery icon.
